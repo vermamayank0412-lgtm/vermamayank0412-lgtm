@@ -20,11 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=vermamayank0412-lgtm&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-lgtm&layout=compact" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vermamayank0412-lgtm&theme=radical)
 ---
