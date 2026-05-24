@@ -22,12 +22,10 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vermamayank0412-lgtm&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermamayank0412-lgtm&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-lgtm&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-lgtm&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vermamayank0412-lgtm&theme=radical)
 ---
 
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vermamayank0412-lgtm&theme=tokyonight)
