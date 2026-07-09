@@ -90,5 +90,152 @@ I enjoy learning by building projects that combine clean architecture, modern te
 - Learn continuously
 - Solve problems with simplicity
 - Focus on real-world impact
+ # 🤖 AI & Software Engineering Focus
+
+Although I'm currently a student, I'm actively building skills that combine modern software engineering with AI-powered development.
+
+| Domain | Current Focus | Goal |
+|---------|---------------|------|
+| Full Stack Development | MERN Stack | Build scalable production-ready applications |
+| Backend Engineering | Node.js, Express | Secure and optimized REST APIs |
+| Artificial Intelligence | LLM APIs, Prompt Engineering | Integrate AI into real-world applications |
+| Data Structures & Algorithms | Java | Crack Software Engineering interviews |
+| Databases | MongoDB, MySQL | Efficient and scalable data management |
+| DevOps | Git, GitHub, Docker | Modern deployment workflows |
+
+---
+
+# 🚀 Featured Projects
+
+> **Note:** These projects represent my current roadmap. Repository links will be added as each project is completed.
+
+<details>
+<summary><b>🧠 AI Interview Platform</b></summary>
+
+### Overview
+
+A full-stack interview preparation platform that uses AI to simulate technical interviews and provide personalized feedback.
+
+| Category | Details |
+|----------|---------|
+| Tech Stack | React, Node.js, Express, MongoDB |
+| Authentication | JWT |
+| AI | LLM Integration |
+| Features | Mock Interviews, Feedback, Dashboard |
+| Status | 🚧 In Progress |
+
+**Goals**
+- AI-generated interview questions
+- Performance analytics
+- Interview history
+- Secure authentication
+
+</details>
+
+---
+
+<details>
+<summary><b>💰 Smart Expense Tracker</b></summary>
+
+### Overview
+
+A modern personal finance tracker with budgeting, analytics, and visual reports.
+
+| Category | Details |
+|----------|---------|
+| Tech Stack | MERN Stack |
+| Charts | Chart.js |
+| Authentication | JWT |
+| Database | MongoDB |
+| Status | 📅 Planned |
+
+**Features**
+
+- Expense tracking
+- Budget planning
+- Monthly reports
+- Category analytics
+
+</details>
+
+---
+
+<details>
+<summary><b>💼 Job Tracker</b></summary>
+
+### Overview
+
+A dashboard for organizing internship and job applications efficiently.
+
+| Category | Details |
+|----------|---------|
+| Stack | React + Node.js |
+| Database | MongoDB |
+| Authentication | JWT |
+| Status | 📅 Planned |
+
+**Features**
+
+- Application tracking
+- Interview reminders
+- Resume management
+- Progress dashboard
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 DevConnect</b></summary>
+
+### Overview
+
+A developer-focused social platform where programmers can connect, share projects, and collaborate.
+
+| Category | Details |
+|----------|---------|
+| Stack | MERN |
+| Authentication | JWT |
+| Database | MongoDB |
+| Status | 📅 Planned |
+
+**Features**
+
+- User profiles
+- Posts
+- Likes & comments
+- Follow system
+- Developer communities
+
+</details>
+
+---
+
+<details>
+<summary><b>🛒 MERN E-Commerce Store</b></summary>
+
+### Overview
+
+A scalable e-commerce platform built using modern web technologies.
+
+| Category | Details |
+|----------|---------|
+| Stack | MERN |
+| Payment | Stripe |
+| Authentication | JWT |
+| Dashboard | Admin Panel |
+| Status | 📅 Planned |
+
+**Features**
+
+- Product management
+- Shopping cart
+- Orders
+- Secure payments
+- Admin dashboard
+
+</details>
+
+---
 
 ---
