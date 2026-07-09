@@ -262,13 +262,10 @@ A scalable e-commerce platform built using modern web technologies.
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=vermamayank0412-lgtm&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-contributor-stats.vercel.app/api?username=vermamayank0412-lgtm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </div>
 
