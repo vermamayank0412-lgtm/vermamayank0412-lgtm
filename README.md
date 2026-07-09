@@ -262,27 +262,29 @@ A scalable e-commerce platform built using modern web technologies.
 
 # 📊 GitHub Analytics
 
-<div align="center">
+# 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vermamayank0412-lgtm&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800"/>
+<div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=vermamayank0412-lgtm&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-lgtm&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-contributor-stats.vercel.app/api?username=vermamayank0412-lgtm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Developer Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vermamayank0412-lgtm&theme=onedark&no-frame=true&no-bg=true&margin-w=8"/>
+![](https://img.shields.io/badge/Open%20Source-Learning-blueviolet?style=for-the-badge)
+
+![](https://img.shields.io/badge/MERN%20Stack-Developer-6A5ACD?style=for-the-badge)
+
+![](https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge)
+
+![](https://img.shields.io/badge/AI-Explorer-7B68EE?style=for-the-badge)
 
 </div>
 
