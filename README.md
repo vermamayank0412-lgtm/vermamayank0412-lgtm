@@ -239,3 +239,81 @@ A scalable e-commerce platform built using modern web technologies.
 ---
 
 ---
+
+# 📈 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/MayankV108/">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/vermamayank0412-Igtm">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mayank-verma-34562036b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vermamayank0412-Igtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vermamayank0412-Igtm&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-Igtm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vermamayank0412-Igtm&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermamayank0412-Igtm&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Development Philosophy
+
+```text
+while (!success) {
+
+    learn();
+
+    build();
+
+    debug();
+
+    improve();
+
+}
+```
+
+I believe consistent learning and practical project building are the fastest ways to grow as a software engineer. Every project is an opportunity to write cleaner code, solve meaningful problems, and become a better developer.
+
+---
