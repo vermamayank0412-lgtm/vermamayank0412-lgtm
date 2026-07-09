@@ -264,7 +264,7 @@ A scalable e-commerce platform built using modern web technologies.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vermamayank0412-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vermamayank0412-lgtm&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=vermamayank0412-lgtm&theme=tokyonight&hide_border=true"/>
 
@@ -272,7 +272,7 @@ A scalable e-commerce platform built using modern web technologies.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-lgtm&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -282,7 +282,7 @@ A scalable e-commerce platform built using modern web technologies.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vermamayank0412-lgtm&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vermamayank0412-lgtm&theme=onedark&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
