@@ -264,15 +264,15 @@ A scalable e-commerce platform built using modern web technologies.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vermamayank0412-Igtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vermamayank0412-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vermamayank0412-Igtm&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vermamayank0412-lgtm&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-Igtm&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermamayank0412-lgtm&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -282,7 +282,7 @@ A scalable e-commerce platform built using modern web technologies.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vermamayank0412-Igtm&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vermamayank0412-lgtm&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
@@ -292,7 +292,7 @@ A scalable e-commerce platform built using modern web technologies.
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermamayank0412-Igtm&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vermamayank0412-lgtm&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
