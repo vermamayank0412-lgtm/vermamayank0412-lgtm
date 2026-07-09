@@ -266,7 +266,7 @@ A scalable e-commerce platform built using modern web technologies.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vermamayank0412-lgtm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vermamayank0412-lgtm&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=vermamayank0412-lgtm&theme=tokyonight&hide_border=true"/>
 
 </div>
 
