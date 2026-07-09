@@ -317,3 +317,87 @@ while (!success) {
 I believe consistent learning and practical project building are the fastest ways to grow as a software engineer. Every project is an opportunity to write cleaner code, solve meaningful problems, and become a better developer.
 
 ---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **Note:** This animation will appear after enabling GitHub Actions in your profile repository.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vermamayank0412-Igtm/vermamayank0412-Igtm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vermamayank0412-Igtm/vermamayank0412-Igtm/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vermamayank0412-Igtm/vermamayank0412-Igtm/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+status:
+  open_to: Software Engineering Internships
+
+currently_learning:
+  - React.js
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Advanced Java
+  - Data Structures & Algorithms
+
+currently_building:
+  - AI Interview Platform
+  - Smart Expense Tracker
+  - Job Tracker
+  - MERN Portfolio Projects
+
+exploring:
+  - Docker
+  - System Design
+  - REST API Design
+  - AI Integration using LLM APIs
+
+goals_2026:
+  - Build 8+ production-ready projects
+  - Solve 300+ DSA problems
+  - Contribute to Open Source
+  - Secure a Software Engineering Internship
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:vermayank0412@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mayank-verma-34562036b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vermamayank0412-Igtm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/MayankV108/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Great software is built through curiosity, consistency, and continuous learning."*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:3B0764,30:5B21B6,65:7C3AED,100:2563EB"/>
+
+</div>
